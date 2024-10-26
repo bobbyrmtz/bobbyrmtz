@@ -1,16 +1,17 @@
-## Hi there 👋
+## Howdy! 🤠
 
-<!--
-**bobbyrmtz/bobbyrmtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ What Am I Doing?
+- Working full time
+- Studying part time
+- Grinding LeetCode
+- Applying to internships
 
-Here are some ideas to get you started:
+✨ What's Next?
+- Learn C or Python
+- Start Super 75
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ What Tools Am I Comfortable With?
+- [![Tools1](https://skillicons.dev/icons?i=git,java&theme=dark)](https://skillicons.dev)
+
+✨ What Tools Do I Want To Learn?
+- [![Tools2](https://skillicons.dev/icons?i=bash,c,graphql,python&theme=dark)](https://skillicons.dev)
